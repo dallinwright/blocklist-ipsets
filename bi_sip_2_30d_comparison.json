@@ -1,0 +1,20 @@
+[
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 6886,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_2_30d",
+		"category": "attacks",
+		"ips": 4,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 19041,
+		"common": 1
+	}
+]
